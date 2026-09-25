@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - executorlib
+  - pysqa
+  - jupyter
+  - h5py
+  - pygraphviz
+  - networkx
